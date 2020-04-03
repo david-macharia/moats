@@ -39,7 +39,6 @@ const initialState = {
     }
   },
   apps: [
-
     {
       name: 'Central Bank of Kenya',
       url: "sdsdm32a392313medsd",
@@ -137,10 +136,7 @@ const initialState = {
             }],
         }
       }
-    },
-
-
-
+    }
   ],
   notes: [
 
